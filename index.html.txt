@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body><body style="background-color:powderblue;">
+<center> <h1 style="border:2px solid Violet;">Everything To Note About Guadalupe Feria:</h1> </center>
+<h1 style="background-color:pink;">I have a cat named MOOSE.</h1                        
+<p>Here are things I dislike strongly:<p>
+</p>
+  <ul>
+  <li>Slow walkers</li>
+  <li>People who have allergies</li>
+  <li>People who are taller than me(still up for debate)</li>
+</ul>
+<p>*If you apply to any of these I recommend we stay a distance.*</p>
+
+  </h2>
+  <script src="script.js"></script>
+<a href="https://Myunhealthyobsession.guadalupeferia.repl.co">MY UNHEALTHY OBSESSION</a><!--
+  This script places a badge on your repl's full-browser view back to your repl's cover
+  page. Try various colors for the theme: dark, light, red, orange, yellow, lime, green,
+  teal, blue, blurple, magenta, pink!
+  -->
+  <script src="https://replit.com/public/js/replit-badge.js" theme="pink" defer></script> 
+</body>
+<p>
+There are 3 things that I do strongly enjoy:
+</p>
+ <ol>
+  <li>Formula 1</li>
+  <li>Baking or the art of creating</li>
+  <li>Music (it varys) </li>
+</ol>
+<p>
+I am a middle child, its whatever. Also I have a loving for anything that doesn't have an opinon.
+</p> 
+</html>
